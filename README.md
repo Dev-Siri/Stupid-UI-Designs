@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Stupid UI Designs
+
+A list of my stupid UI designs compiled into one website.
 
 ## Getting Started
 
